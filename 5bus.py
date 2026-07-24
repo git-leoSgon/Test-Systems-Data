@@ -1,5 +1,5 @@
 # ===========================================================
-# 5 bus test system - netowork data
+# 5 bus test system - network data
 # ===========================================================
 import numpy as np
 
